@@ -1,7 +1,9 @@
 # spring-boot-mqtt-demo
     Spring boot 集成 Mqtt示例  
     
-    Mqtt收发消息的基本配置，Mqtt服务[部署](http://docs.emqtt.cn/zh_CN/latest/)
+    Mqtt收发消息的基本配置
+## 服务端安装
+Mqtt服务[部署参考](http://docs.emqtt.cn/zh_CN/latest/)
 
 ## 发送消息
 ```java
